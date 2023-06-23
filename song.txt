@@ -6,3 +6,5 @@ NEW LINE
 ----------
 new feature
 ----------
+another new feature
+----------
